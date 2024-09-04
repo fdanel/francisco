@@ -1,4 +1,15 @@
 body{
     background-color: rgb(61, 180, 180);
     font-family: "Playwrite PE", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    font-family: "Playwrite PE", system-ui;
 }
