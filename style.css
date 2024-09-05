@@ -13,3 +13,20 @@ button{
     color: aliceblue;
     font-family: "Playwrite PE", system-ui;
 }
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 80%;
+}
